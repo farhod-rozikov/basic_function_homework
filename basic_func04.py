@@ -1,5 +1,5 @@
 # Create a function called main.
 def main():
-    return -1.5
+    return 2
 # Return the value integer type.
-print(int(main()))
+print((main()))
